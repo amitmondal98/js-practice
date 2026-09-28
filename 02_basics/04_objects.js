@@ -63,16 +63,16 @@ const course = {
 
 // course.courseInstructor
 
-const {courseInstructor: instructor} = course
+const {courseInstructor: instructor} = course // Object De-structuring
 
 // console.log(courseInstructor);
 console.log(instructor);
 
-// {
-//     "name": "hitesh",
-//     "coursename": "js in hindi",
-//     "price": "free"
-// }
+{
+    "name": "hitesh",
+    "coursename": "js in hindi",
+    "price": "free"
+}
 
 [
     {},
